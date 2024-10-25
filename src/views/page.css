@@ -1,0 +1,141 @@
+.page-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.page-desktop1 {
+  gap: 9px;
+  flex: 1;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.page-frame1 {
+  gap: 15px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/tq_doephojnw4-ef9s-1500w.png");
+}
+.page-frame2 {
+  gap: 10px;
+  height: 92px;
+  display: flex;
+  padding: 10px 50px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.page-frame4 {
+  width: 102px;
+  height: 33px;
+}
+.page-frame6 {
+  gap: 22px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.page-text1 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page-text2 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page-text4 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page-frame3 {
+  gap: 15px;
+  height: 100%;
+  display: flex;
+  padding: 10px 47px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  padding-left: 54px;
+  flex-direction: column;
+}
+.page-text5 {
+  color: rgba(0, 0, 0, 0.3);
+  height: auto;
+  font-size: 36px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page-frame8 {
+  gap: -5px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-end;
+}
+.page-line1 {
+  width: 1343px;
+  height: 1px;
+}
+.page-frame5 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 50px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.page-logoblack1 {
+  width: 28px;
+  height: 29px;
+}
+.page-frame7 {
+  width: 102px;
+  height: 33px;
+}

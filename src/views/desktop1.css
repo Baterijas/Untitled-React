@@ -1,0 +1,171 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  gap: 9px;
+  flex: 1;
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-frame1 {
+  gap: 15px;
+  display: flex;
+  overflow: hidden;
+  flex-grow: 1;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-image: url("/external/tq_doephojnw4-ef9s-1500w.png");
+}
+.desktop1-frame2 {
+  gap: 10px;
+  height: 92px;
+  display: flex;
+  padding: 10px 50px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.desktop1-frame4 {
+  width: 102px;
+  height: 33px;
+}
+.desktop1-frame6 {
+  gap: 22px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+}
+.desktop1-text1 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: #000000;
+}
+.desktop1-text2 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: #000000;
+}
+.desktop1-text4 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  font-size: 15px;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+  background-color: #000000;
+}
+.desktop1-frame3 {
+  gap: 15px;
+  height: 100%;
+  display: flex;
+  padding: 10px 47px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: flex-start;
+  padding-left: 54px;
+  flex-direction: column;
+}
+.desktop1-text5 {
+  color: rgb(0, 0, 0);
+  height: auto;
+  font-size: 128px;
+  align-self: stretch;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 300;
+  line-height: 0.9;
+  font-stretch: normal;
+  letter-spacing: -5px;
+  text-decoration: none;
+}
+.desktop1-text6 {
+  font-style: normal;
+}
+.desktop1-text7 {
+  font-style: italic;
+  font-family: "Inter";
+  font-weight: 700;
+  letter-spacing: -10px;
+}
+.desktop1-text8 {
+  color: rgba(0, 0, 0, 0.3);
+  height: auto;
+  font-size: 32px;
+  align-self: stretch;
+  font-style: Regular;
+  text-align: left;
+  font-family: "Inter";
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame8 {
+  gap: -5px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-end;
+}
+.desktop1-pasted-image {
+  width: 360px;
+  height: 52px;
+}
+.desktop1-line1 {
+  width: 1343px;
+  height: 1px;
+}
+.desktop1-frame5 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 50px;
+  overflow: hidden;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.desktop1-logoblack1 {
+  width: 28px;
+  height: 29px;
+}
+.desktop1-frame7 {
+  width: 102px;
+  height: 33px;
+}
