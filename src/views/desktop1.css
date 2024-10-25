@@ -106,6 +106,16 @@
   color: rgb(0, 0, 0);
   height: auto;
   font-size: 128px;
+@media (max-width: 640px) {
+  .your-class {
+    font-size: 95px;
+  }
+}
+@media (max-width: 475px) {
+  .your-class {
+    font-size: 65px;
+  }
+}
   align-self: stretch;
   text-align: left;
   font-family: "Inter";
